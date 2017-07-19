@@ -1,0 +1,25 @@
+{
+  "name": "express-mongo-tavis-demo",
+  "version": "1.0.0",
+  "description": "To demonstrate NodeJs Express MongoDB usage with Tavis CI integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goutham2/express-mongo-tavis-demo.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "Express",
+    "Mongo",
+    "Tavis"
+  ],
+  "author": "Goutham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goutham2/express-mongo-tavis-demo/issues"
+  },
+  "homepage": "https://github.com/goutham2/express-mongo-tavis-demo#readme"
+}
