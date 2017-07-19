@@ -9,7 +9,7 @@ NPM: Node Project Module
 * Helps in initalizing project
 * Installing node modules
 
-$ npm init 
+> $ npm init 
     name: (express-mongo-tavis-demo) 
     version: (1.0.0)  
     description: To demonstrate NodeJs Express MongoDB usage with Tavis CI integration 
