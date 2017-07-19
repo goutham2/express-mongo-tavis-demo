@@ -11,14 +11,14 @@ NPM: Node Project Module
 
 $ npm init 
     name: (express-mongo-tavis-demo) 
-    version: (1.0.0) 
-    description: To demonstrate NodeJs Express MongoDB usage with Tavis CI integration
-    entry point: (index.js) 
-    test command: 
-    git repository: (https://github.com/goutham2/express-mongo-tavis-demo.git) 
-    keywords: NodeJS, Express, Mongo, Tavis
-    author: Goutham
-    license: (ISC)
+    version: (1.0.0)  
+    description: To demonstrate NodeJs Express MongoDB usage with Tavis CI integration 
+    entry point: (index.js)  
+    test command:  
+    git repository: (https://github.com/goutham2/express-mongo-tavis-demo.git)  
+    keywords: NodeJS, Express, Mongo, Tavis  
+    author: Goutham  
+    license: (ISC)  
 
 Above command does the following:
  * sets up a project structure. 
